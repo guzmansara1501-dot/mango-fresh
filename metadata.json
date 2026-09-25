@@ -1,0 +1,6 @@
+{
+  "name": "Mango Fresh - Tienda de Mango Biche",
+  "description": "Tienda virtual de Mango Biche tradicional y preparado con limón, sal, pimienta, tajín, gomitas y salsa de chile, pagos Nequi/Efectivo, seguimiento en tiempo real y panel de inventario y ventas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
